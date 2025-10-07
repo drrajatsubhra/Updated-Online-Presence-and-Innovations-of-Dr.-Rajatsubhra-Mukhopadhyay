@@ -1,132 +1,61 @@
-# dr-rajatsubhra-online-research
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16805990.svg)](https://doi.org/10.5281/zenodo.16805990)
-Public hub for Dr. Rajatsubhra Mukhopadhyay’s medical innovations, research, and Vedic studies.
-
-## Dr. Rajatsubhra Mukhopadhyay — Online Presence & Research Hub
-
-**Pediatrician • Researcher • Author • Spiritual Educator**  
-Founder, **Sri Yoga Center Ashram, Kunarpur**  
-Director, **Child Health Care Arambag (CHCA)**
-
-[Website](https://www.sridoctor.com) · [CHCA](https://www.chcseva.com) · [Blogs](#online-presence) · [Veda Research Page](https://www.facebook.com/share/g/16zWqbzLsh/)
+# 🧭 dr-rajatsubhra-online-research  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16805990.svg)](https://doi.org/10.5281/zenodo.16805990)  
+**Archival repository for the verified digital presence, academic works, and innovations of Dr Rajatsubhra Mukhopadhyay.**
 
 ---
 
-## About
+## 👨‍⚕️ Dr Rajatsubhra Mukhopadhyay — Online Presence & Research Hub  
 
-This repository consolidates Dr. Rajatsubhra Mukhopadhyay’s medical innovations, clinical observations, and Vedic research. It is structured for public access, transparent documentation, and long-term archiving (Zenodo DOI).
+**Pediatrician • Researcher • Author • Vedic Scholar**  
+Founder, **Sri Yoga Center Ashram Trust (SYCAT), Kunarpur**  
+Director, **Child Health Care Arambag (CHCA), West Bengal, India**  
 
-- **Mission**: Unify ancient Indian wisdom (*Atma/Soul*, Space, Time, Mass, Energy) with modern science to develop low-cost, effective treatments and spiritual awakening through knowledge and self-discipline.
-- **Institutions**:  
-  - Sri Yoga Center Trust – Kunarpur (President, POA)  
-  - Child Health Care Arambag (Founder, Chief Pediatrician)
-
----
-
-## Innovations (Index)
-
-- **ODISTR** — *On Demand INTRANASAL STEROID THERAPY of Rajatsubhra* (pediatric asthma).  
-  Folder: [innovations/ODISTR](innovations/ODISTR)
-
-- **RMDMCC** — *Rajatsubhra’s Manual Dilatation Method for Congenital Constipation* (low-set Hirschsprung’s, non-surgical).  
-  Folder: [innovations/RMDMCC](innovations/RMDMCC)
-
-- **RMOP** — *Rajatsubhra’s Manual Opening of Phimosis* (outpatient, non-surgical).  
-  Folder: [innovations/RMOP](innovations/RMOP)
-
-- **CTEV Non-Surgical Approach** — Clubfoot management.  
-  Folder: [innovations/CTEV-NonSurgical](innovations/CTEV-NonSurgical)
-
-- **Flat Foot Intervention** — Pediatric flat foot protocol.  
-  Folder: [innovations/FlatFoot-Intervention](innovations/FlatFoot-Intervention)
-
-- **Elicitation of Cough in Infants** — Diagnostic technique using cough sound & history.  
-  Folder: [innovations/Elicitation-of-Cough](innovations/Elicitation-of-Cough)
-
-- **Sobon** — Vedic rhythmic inner Homa process for generating Soma.  
-  Folder: [innovations/Sobon-Vedic-Inner-Homa](innovations/Sobon-Vedic-Inner-Homa)
+🌐 [Official Website](https://www.sridoctor.com)  |  [CHCA Portal](https://www.chcseva.com)  |  [Research Blog Network](#online-presence)  |  [Veda Research Archive](https://www.facebook.com/share/g/16zWqbzLsh/)
 
 ---
 
-## Online Presence
+## 🧩 About  
 
-See detailed list in [docs/Online-Presence.md](docs/Online-Presence.md).
+This repository documents the verified online research ecosystem of **Dr Rajatsubhra Mukhopadhyay**, consolidating his clinical innovations, academic publications, and Vedic research initiatives under open-science principles.  
 
-**Primary sites:**
-- [https://www.sridoctor.com](https://www.sridoctor.com)
-- [https://www.chcseva.com](https://www.chcseva.com)
+All links, identifiers, and records are provided for scholarly transparency and traceable authorship across multiple academic repositories (GitHub, Zenodo, Figshare, ORCID, Google Scholar, Amazon KDP).  
 
-**Blogs:**
-- [https://indologyblog.blogspot.com/](https://indologyblog.blogspot.com/)
-- [https://drrajatsubhra.blogspot.com/](https://drrajatsubhra.blogspot.com/)
-- [https://indibengal.blogspot.com/](https://indibengal.blogspot.com/)
-- [https://ashraminfo.blogspot.com/](https://ashraminfo.blogspot.com/)
-- [https://blog.sridoctor.com/](https://blog.sridoctor.com/)
+The aim is to preserve a unified record of the author’s contributions to **pediatric innovation, integrative medicine, and Indian spiritual science** through open-access documentation.  
 
-**Social:**
-- Facebook Veda Research Page: [https://www.facebook.com/share/g/16zWqbzLsh/](https://www.facebook.com/share/g/16zWqbzLsh/)
+No commercial or service-related promotion is included in this archive. All information is intended purely for academic reference and citation.
 
 ---
 
-## Cite
-cff-version: 1.2.0
-title: "Updated Online Presence and Innovations of Dr. Rajatsubhra Mukhopadhyay"
-message: "If you use this resource, please cite it as below."
-type: software
-authors:
-  - family-names: Mukhopadhyay
-    given-names: Rajatsubhra
-    orcid: "https://orcid.org/0000-0001-5658-8016"
-    affiliation: "Child Health Care Arambag (CHCA); Sri Yoga Center Trust – Kunarpur (SYCAT), West Bengal, India"
-version: "1.0.0"
-date-released: 2025-10-07
-repository-code: "https://github.com/drrajatsubhra/Updated-Online-Presence-and-Innovations-of-Dr.-Rajatsubhra-Mukhopadhyay"
-doi: "10.5281/zenodo.16805990"
-license: MIT
-keywords:
-  - CHCA
-  - SYCAT
-  - ODISTR
-  - RMDMCC
-  - RMOP
-  - Sobon
-  - Vedic Science
-  - Open Science
-  - Clinical Innovation
-  - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16805990.svg)](https://doi.org/10.5281/zenodo.16805990)
-See [CITATION.cff](CITATION.cff) and [docs/How-to-Cite.md](docs/How-to-Cite.md).  
-For a snapshot with DOI, use **Zenodo** — this repo is prepared with `.zenodo.json`.
+## 📚 Contents  
+- `Online_Presence_and_Innovations.pdf` — Detailed overview of verified research platforms and identifiers  
+- `Institutional_Profiles.pdf` — Descriptions of CHCA and SYCAT registrations and research roles  
+- `README.md` — Repository overview (this file)
 
 ---
 
-## Ethics & Consent
+## 🏛️ Institutional Affiliations  
 
-All clinical materials are **de-identified**.  
-Written guardian consent for treatment and publication has been obtained where applicable.  
-See [docs/Ethics-Consent-Guidance.md](docs/Ethics-Consent-Guidance.md).
+**Child Health Care Arambag (CHCA)** — Clinical wing of SYCAT  
+Government Trade License No.: 0917P190925285613 (Valid till 04 May 2026)  
+Trademark No.: 6150452 (Class 44 – Allopathic Healthcare Services)  
 
----
-
-## Contributing
-
-Guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).  
-Code of conduct in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+**Sri Yoga Center Ashram Trust (SYCAT), Kunarpur** — Registered Charitable Trust  
+PAN: AAXTS1917M  |  Udyam Reg. No.: UDYAM-WB-02-0003562  
 
 ---
 
-## License
+## 📖 Citation  
 
-- **Text & media**: Creative Commons **CC BY 4.0** ([LICENSE](LICENSE)).  
-- **Any code/snippets** (if added later): MIT (add a `LICENSE-CODE` if needed).
-
----
-
-## Contact
-
-- **Email**: [dr_rajatsubhra@yahoo.com](mailto:dr_rajatsubhra@yahoo.com)  
-- **CHCA Phone**: +91-9732948496  
-- **ORCID**: [0000-0001-5658-8016](https://orcid.org/0000-0001-5658-8016)
+> Mukhopadhyay, R. (2025). *Updated Online Presence and Innovations of Dr Rajatsubhra Mukhopadhyay.*  
+> Child Health Care Arambag (CHCA) – Sri Yoga Center Ashram Trust (SYCAT), West Bengal, India.  
+> DOI: [10.5281/zenodo.16805990](https://doi.org/10.5281/zenodo.16805990)
 
 ---
 
-*Last updated: 10 Aug 2025*
+## ⚖️ License  
+This repository is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+
+---
+
+## 🔖 Keywords  
+Rajatsubhra Mukhopadhyay • CHCA • SYCAT • ODISTR • RMOP • RMDMCC • Sobon • Zenodo • ORCID • Figshare • GitHub • Open Science • Integrative Medicine • Vedic Research
