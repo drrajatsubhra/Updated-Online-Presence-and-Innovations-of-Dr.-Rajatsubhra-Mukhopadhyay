@@ -69,7 +69,31 @@ See detailed list in [docs/Online-Presence.md](docs/Online-Presence.md).
 ---
 
 ## Cite
-
+cff-version: 1.2.0
+title: "Updated Online Presence and Innovations of Dr. Rajatsubhra Mukhopadhyay"
+message: "If you use this resource, please cite it as below."
+type: software
+authors:
+  - family-names: Mukhopadhyay
+    given-names: Rajatsubhra
+    orcid: "https://orcid.org/0000-0001-5658-8016"
+    affiliation: "Child Health Care Arambag (CHCA); Sri Yoga Center Trust – Kunarpur (SYCAT), West Bengal, India"
+version: "1.0.0"
+date-released: 2025-10-07
+repository-code: "https://github.com/drrajatsubhra/Updated-Online-Presence-and-Innovations-of-Dr.-Rajatsubhra-Mukhopadhyay"
+doi: "10.5281/zenodo.16805990"
+license: MIT
+keywords:
+  - CHCA
+  - SYCAT
+  - ODISTR
+  - RMDMCC
+  - RMOP
+  - Sobon
+  - Vedic Science
+  - Open Science
+  - Clinical Innovation
+  - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16805990.svg)](https://doi.org/10.5281/zenodo.16805990)
 See [CITATION.cff](CITATION.cff) and [docs/How-to-Cite.md](docs/How-to-Cite.md).  
 For a snapshot with DOI, use **Zenodo** — this repo is prepared with `.zenodo.json`.
 
