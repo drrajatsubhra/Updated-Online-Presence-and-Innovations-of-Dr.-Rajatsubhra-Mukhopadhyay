@@ -1,5 +1,5 @@
 # dr-rajatsubhra-online-research
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16805990.svg)](https://doi.org/10.5281/zenodo.16805990)
 Public hub for Dr. Rajatsubhra Mukhopadhyay’s medical innovations, research, and Vedic studies.
 
 ## Dr. Rajatsubhra Mukhopadhyay — Online Presence & Research Hub
